@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deliwala_yash" target="blank"><img src="https://img.shields.io/twitter/follow/deliwala_yash?logo=twitter&style=for-the-badge" alt="deliwala_yash" /></a> </p>
 
-- 🔭 I’m currently working on MERN Stack Developement [Personal Portfolio](yash.suremarketing.in)
+- 🔭 I’m currently working on MERN Stack Developement [Personal Portfolio](https://yash.suremarketing.in/)
 
 - 🌱 I’m currently learning **Java Script,DSA,React JS,Node Js**
 
