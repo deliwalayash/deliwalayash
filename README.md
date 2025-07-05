@@ -38,3 +38,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deliwalayash&show_icons=true&locale=en" alt="deliwalayash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deliwalayash&" alt="deliwalayash" /></p>
+
+### 🧠 HackerRank Trophy
+
+<img src="https://github.com/BEPb/BEPb/blob/main/src/hackerrank-logo.jpg" width="200"/>
+
+
+### 🔥 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashdeliwala10&theme=tokyonight&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdeliwala10&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashdeliwala10&show_icons=true&theme=tokyonight)
+
