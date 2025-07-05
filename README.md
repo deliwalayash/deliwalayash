@@ -50,6 +50,42 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deliwalayash&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deliwalayash&show_icons=true&theme=tokyonight)
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?usename=deliwalayash&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deliwalayash&theme=react-dark)
+
+### 👨‍💻 About Me
+
+Making tough problems learnable through networks.
+
+- 🔭 I’m currently working on AI projects
+- 🌱 I’m learning full stack development
+- 💬 Ask me about DSA,Javascript
+
+---
+
+### 📊 Activity
+
+- 🔁 218 commits
+- ⭐ Starred 1 repository
+- 🔍 Watching 20 repositories
+
+________    _________   _____          ____.  _________   _________    ____________________________.________________________
+\______ \  /   _____/  /  _  \        |    | /  _  \   \ /   /  _  \  /   _____/\_   ___ \______   \   \______   \__    ___/
+ |    |  \ \_____  \  /  /_\  \       |    |/  /_\  \   Y   /  /_\  \ \_____  \ /    \  \/|       _/   ||     ___/ |    |   
+ |    `   \/        \/    |    \  /\__|    /    |    \     /    |    \/        \\     \___|    |   \   ||    |     |    |   
+/_______  /_______  /\____|__  /  \________\____|__  /\___/\____|__  /_______  / \______  /____|_  /___||____|     |____|   
+        \/        \/         \/                    \/              \/        \/         \/       \/                         
+![GitHub metrics](https://metrics.lecoq.io/deliwalayash?template=classic&isocalendar=1&languages=1&activity=1&introduction=1&followup=1)
+
+### 💡 Fun Fact
+
+- I debug neural networks in my dreams 🧠💤
+- My activation function is caffeine ☕ + code
+- I once trained a model to recognize when my cat wants snacks 🐱🍪
+
+### 📜 Favorite Quote
+
+_"The best way to predict the future is to invent it." — Alan Kay_
+
+
 
 
