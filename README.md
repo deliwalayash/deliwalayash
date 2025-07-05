@@ -46,7 +46,10 @@
 
 ### 🔥 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashdeliwala10&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdeliwala10&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashdeliwala10&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deliwalayash&theme=tokyonight&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deliwalayash&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deliwalayash&show_icons=true&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?usename=deliwalayash&theme=react-dark)
+
 
