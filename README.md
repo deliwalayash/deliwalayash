@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Deliwala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deliwalayash&label=Profile%20views&color=0e75b6&style=flat" alt="deliwalayash" /> </p>
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [yash.suremarketing.in](yash.suremarketing.in)
 
-- 💬 Ask me about **HTML,CSS,bootstrap,J Query**
+- 💬 Ask me about **HTML,CSS,bootstrap,J Query,Javascript,React JS**
 
-- 📫 How to reach me **yash@suremarketing.in**
+- 📫 How to reach me **yashdeliwala10@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tLUws-oL9wyOGsx70GDLwEMXalI-xl7o/view?usp=sharing](https://drive.google.com/file/d/1tLUws-oL9wyOGsx70GDLwEMXalI-xl7o/view?usp=sharing)
 
