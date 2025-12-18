@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Personal Website](suremarketing.in)
 
-- 👨‍💻 All of my projects are available at [yash.suremarketing.in](yash.suremarketing.in)
+- 👨‍💻 All of my projects are available at [yashdeliwala.com](yashdeliwala.com)
 
 - 💬 Ask me about **HTML,CSS,bootstrap,J Query,Javascript,React JS**
 
