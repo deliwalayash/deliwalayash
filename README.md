@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Deliwala</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deliwalayash" alt="deliwalayash" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/deliwala_yash" target="blank"><img src="https://img.shields.io/twitter/follow/deliwala_yash?logo=twitter&style=for-the-badge" alt="deliwala_yash" /></a> </p>
 
 - 🔭 I’m currently working on MERN Stack Developement [Personal Portfolio](https://yashdeliwala.com/)
