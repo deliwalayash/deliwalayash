@@ -53,8 +53,12 @@ Currently focused on **MERN Stack**, strengthening **DSA**, and shipping project
 ## 🔥 GitHub Streak (LIVE)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=deliwalayash&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=deliwalayash&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
