@@ -50,23 +50,14 @@ Currently focused on **MERN Stack**, strengthening **DSA**, and shipping project
 
 ---
 
-## 🔥 GitHub Streak (LIVE)
+## 📂 Featured Repositories
 
-<img 
-  src="https://streak-stats.demolab.com?user=deliwalayash&theme=tokyonight&hide_border=true&format=svg"
-  alt="GitHub Streak"
-/>
-
-
----
-
-
-## 🏷️ Repositories at a Glance
-
-![Repo](https://img.shields.io/badge/Patient--Appointment--System-MERN-blue)
-![Repo](https://img.shields.io/badge/MERN--REST--API-JWT-green)
-![Repo](https://img.shields.io/badge/JavaScript--Projects-Logic-yellow)
-![Repo](https://img.shields.io/badge/Portfolio-Website-orange)
+| Repository | Tech Stack | Description |
+|-----------|-----------|-------------|
+| [Patient Appointment System](https://github.com/deliwalayash/Patient-Appointment-System) | React, LocalStorage | CRUD-based patient booking system |
+| [MERN REST API](https://github.com/deliwalayash/MERN-REST-API) | Node, Express, JWT | Auth + CRUD backend |
+| [JavaScript Projects](https://github.com/deliwalayash/JavaScript-Projects) | JavaScript | Logic-focused mini projects |
+| [Portfolio Website](https://github.com/deliwalayash/Portfolio) | React | Personal developer portfolio |
 
 
 ---
