@@ -53,20 +53,19 @@ Currently focused on **MERN Stack**, strengthening **DSA**, and shipping project
 ## 🔥 GitHub Streak (LIVE)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=deliwalayash&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=deliwalayash&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (LIVE)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deliwalayash&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 🏷️ Repositories at a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliwalayash&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Repo](https://img.shields.io/badge/Patient--Appointment--System-MERN-blue)
+![Repo](https://img.shields.io/badge/MERN--REST--API-JWT-green)
+![Repo](https://img.shields.io/badge/JavaScript--Projects-Logic-yellow)
+![Repo](https://img.shields.io/badge/Portfolio-Website-orange)
+
 
 ---
 
